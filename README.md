@@ -123,8 +123,8 @@ Sales Last Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date]))
 ```plaintext
 Sales Growth YOY = DIVIDE([Total Sales] - [Sales Last Year], [Sales Last Year], 0)
 ```
-
-![Top 10 Disciplines by Athletes](https://github.com/Nazmul92/power-BI/raw/main/AW-overview.png)
+## *Dashboard*
+![Dashboard Overview](https://github.com/Nazmul92/power-BI/raw/main/AW-overview.png)
 
 ## Analysis Insights
 ### Athletes and Country Representation:
