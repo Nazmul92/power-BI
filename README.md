@@ -124,7 +124,7 @@ Sales Last Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date]))
 Sales Growth YOY = DIVIDE([Total Sales] - [Sales Last Year], [Sales Last Year], 0)
 ```
 
-![Top 10 Disciplines by Athletes](https://github.com/Nazmul92/azure-analytics/raw/main/visualization-graphs/Correlation_athletes_total_madels.png)
+![Top 10 Disciplines by Athletes](https://github.com/Nazmul92/power-BI/raw/main/visualization-graphs/Correlation_athletes_total_madels.png)
 ## Analysis Insights
 ### Athletes and Country Representation:
 - Top Countries by Athlete Count: The top countries sending athletes to the Tokyo Olympics are dominated by countries like the USA, China, and Japan.
